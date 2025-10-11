@@ -26,9 +26,7 @@ GreenCommit helps open-source project maintainers:
 
 - **Uvais**
 - **Muhammed Nasim K**
-- **SHABEEH**
 - **SADIK** ([@square-story](https://github.com/square-story))
-- **Vinayak E**
 
 We welcome new contributors! Check out [GreenCommit People](https://github.com/orgs/greencommit/people) to join us as we build together.
 
