@@ -1,4 +1,6 @@
 # GreenCommit
+<img width="1474" height="830" alt="opengraph-image-modified" src="https://github.com/user-attachments/assets/1238d178-9145-4533-a503-5ff97b901512" />
+
 
 **GreenCommit** is an open-source initiative focused on connecting contributors with maintainers to accelerate issue resolution, foster collaboration, and make open source projects easier to contribute to.
 
